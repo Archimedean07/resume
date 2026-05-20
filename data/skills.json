@@ -1,0 +1,26 @@
+[
+  {
+    "grouping": "Languages",
+    "skills": ["TypeScript", "JavaScript", "Python", "C"]
+  },
+  {
+    "grouping": "Frontend",
+    "skills": ["React", "HTML", "CSS", "Tailwind"]
+  },
+  {
+    "grouping": "Backend",
+    "skills": ["Node.js", "Express", "RESTful APIs"]
+  },
+  {
+    "grouping": "Databases",
+    "skills": ["PostgreSQL", "SQLite"]
+  },
+  {
+    "grouping": "Tools & Systems",
+    "skills": ["Git", "Linux", "Bash", "Docker", "Neovim"]
+  },
+  {
+    "grouping": "CS Fundamentals",
+    "skills": ["Algorithms & Data Structures", "Systems Programming", "Discrete Mathematics"]
+  }
+]

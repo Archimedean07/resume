@@ -1,0 +1,16 @@
+[
+{
+  "company": "Freelance",
+  "position": "Software Developer",
+  "startDate": "2023",
+  "endDate": "Present",
+  "summary": "Built and deployed web applications"
+},
+    {
+  "company": "Alanya Alaattin Keykubat University",
+  "position": "Computer Science Student",
+  "startDate": "2022",
+  "endDate": "Present",
+  "summary": "Coursework in algorithms, discrete mathematics, systems programming..."
+}
+]
