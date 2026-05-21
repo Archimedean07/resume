@@ -65,44 +65,10 @@
     <loc>http://localhost:1313/tags/rest-apis/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/atlassian-developer-ecosystem/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/atlassian-ecosystem/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/bamboo/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/bash/shell/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/bitbucket/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/bosh/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/confluence/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/devops/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/in/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/java/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/jira/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/jquery/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/maven/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/monit/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/spring/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/techtags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/used/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/website/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/xml/xslt/</loc>
   </url>
 </urlset>
