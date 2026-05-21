@@ -1,4 +1,4 @@
-baseURL = 'https://resume-ten-ruby-77.vercel.app/'
+baseURL = 'https://resume-ten-ruby-77.vercel/'
 locale = 'en-us'
 title = 'Resume'
 theme = 'hugo-resume'
